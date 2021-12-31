@@ -6,3 +6,12 @@ JSON is different from JavaScript in a couple ways. JSON is a data format while 
 The API endpoints in this application was used to authenticate the user and authorize the user to alter information in the database. The program gets information from the local storage when authenticating and when getting passwords, they look on the backend. 
 # Reflection
 This course has broadened my horizons in the development world. It gave me a real understanding of how things are developed and the process it takes to develop a clean polished artifact. I’ve learned how to break large projects down into smaller ones and complete them in a timely manner. This course has allowed me to think outside the box. 
+
+# Adding Trip Screenshot
+<img width="1005" alt="Additional_Trip" src="https://user-images.githubusercontent.com/86351806/147808763-46da0915-c4c0-40d6-8439-4e4aa7f0b3d5.png">
+
+# Updating Trip Screenshot
+<img width="1024" alt="Update_Screen" src="https://user-images.githubusercontent.com/86351806/147808764-0223b6bd-6222-4c55-9bf7-0ffd9ee0cac8.png">
+
+# Edit Trip Screenshot
+<img width="1017" alt="Edit_Screen" src="https://user-images.githubusercontent.com/86351806/147808767-e915d74c-a800-4ac9-8293-8620dea756f2.png">
