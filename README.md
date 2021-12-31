@@ -13,5 +13,5 @@ This course has broadened my horizons in the development world. It gave me a rea
 # Edit Trip Details
 <img width="1017" alt="Edit_Screen" src="https://user-images.githubusercontent.com/86351806/147810162-b85edbb4-4b3b-472f-89bc-0f404392484d.png">
 
-# Update Trip Details
+# Updated Trip Details
 <img width="1024" alt="Update_Screen" src="https://user-images.githubusercontent.com/86351806/147810166-6d96eac5-6066-4f6d-8c4c-98589e35b446.png">
